@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/Aditya67539/GateCraft#readme",
   "devDependencies": {
-    "vite": "^8.1.4",
+    "vite": "^8.3.4",
     "vitest": "^4.1.5"
   },
   "dependencies": {
