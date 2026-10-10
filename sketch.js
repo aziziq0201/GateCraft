@@ -13,7 +13,7 @@ import { getOctilinearSnap } from "./render/wireGeometry.js";
 applyTheme(getActiveTheme());
 
 // hii kuchu puchu
-
+// this is seconc comment of iqballearningn git
 let mouse = { x: 0, y: 0 };
 
 const canvasHost = document.querySelector(".canvas-host");
